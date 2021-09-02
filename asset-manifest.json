@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gis-project/static/css/main.baee8971.chunk.css",
+    "main.js": "/gis-project/static/js/main.b0d924c5.chunk.js",
+    "main.js.map": "/gis-project/static/js/main.b0d924c5.chunk.js.map",
+    "runtime-main.js": "/gis-project/static/js/runtime-main.2eff624f.js",
+    "runtime-main.js.map": "/gis-project/static/js/runtime-main.2eff624f.js.map",
+    "static/js/2.bbded570.chunk.js": "/gis-project/static/js/2.bbded570.chunk.js",
+    "static/js/2.bbded570.chunk.js.map": "/gis-project/static/js/2.bbded570.chunk.js.map",
+    "static/js/3.decc857e.chunk.js": "/gis-project/static/js/3.decc857e.chunk.js",
+    "static/js/3.decc857e.chunk.js.map": "/gis-project/static/js/3.decc857e.chunk.js.map",
+    "index.html": "/gis-project/index.html",
+    "static/css/main.baee8971.chunk.css.map": "/gis-project/static/css/main.baee8971.chunk.css.map",
+    "static/js/2.bbded570.chunk.js.LICENSE.txt": "/gis-project/static/js/2.bbded570.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2eff624f.js",
+    "static/js/2.bbded570.chunk.js",
+    "static/css/main.baee8971.chunk.css",
+    "static/js/main.b0d924c5.chunk.js"
+  ]
+}
